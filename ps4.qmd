@@ -1,0 +1,17 @@
+---
+title: "GOV51 PSET4"
+author: "\\small https://github.com/Steffny2004/gov51-ps4"
+subtitle: "\\large Steffny Meegoda"
+format: pdf
+editor: visual
+---
+
+```{r setup, include=FALSE}
+library(knitr)
+knitr::opts_chunk$set(
+	echo = TRUE,
+	eval = TRUE,
+	message = FALSE,
+	warning = FALSE
+)
+```
